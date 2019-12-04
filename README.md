@@ -3,4 +3,5 @@
 ## TODO
 - Docker
 - Horovod
-
+- Architecture
+- Optimization Methods
