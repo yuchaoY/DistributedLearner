@@ -3,5 +3,6 @@
 ## TODO
 - Docker
 - Horovod
+- MPI
 - Architecture
 - Optimization Methods
